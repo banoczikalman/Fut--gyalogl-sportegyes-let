@@ -1,4 +1,4 @@
-# Fut--gyalogl-sportegyes-let
+## Futó-gyalogló sportegyesület
 ## Natália – Kezdőlap, Elérhetőségek, Sportos ÓzdOn
 A projekt technikai és tartalmi gerincét én kezdtem el felépíteni. A **Sportos Borsod** weboldal fejlesztése során
 nemcsak frontend és backend problémák megoldásában vettem részt, hanem a tartalmi struktúra
