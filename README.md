@@ -4,7 +4,7 @@ Azért hoztuk létre a kerékpáros, túra- és futóklubot, mert hiszünk a moz
 weblapcimünk: [sportosborsod](https://sportosborsod.byethost31.com/elementor-44/)
 ##Akik készítették ez oldalt:
 * Sike Dalma Dóra  tartalmi szerkezet
-* Száva Natália    a weboldal megjelenéséért felelős
+* Nagyné Száva Natália    a weboldal megjelenéséért felelős
 * Bánóczi Kálmán   tartalmi szerkezetért felelős
   
 
