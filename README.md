@@ -1,4 +1,4 @@
-## Sportos Borsod sportegyesület Honlap - Projektbemutató 
+## Sportos Borsod Sportegyesület Honlap - Projektbemutató 
 ## Áttekintés
 Azért hoztuk létre a kerékpáros, túra- és futóklubot, mert hiszünk a mozgás közösségformáló és egészségmegőrző erejében. Célunk, hogy minden korosztály számára elérhető, motiváló és élményalapú sportolási lehetőséget biztosítsunk. A közös mozgás segít a testi-lelki egészség megőrzésében, javítja a hangulatot és erősíti a közösségi kapcsolatokat. Klubunk nyitott minden érdeklődő előtt, függetlenül attól, hogy kezdő vagy haladó szinten áll.
 weblapcimünk: [sportosborsod](https://sportosborsod.byethost31.com/elementor-44/)
