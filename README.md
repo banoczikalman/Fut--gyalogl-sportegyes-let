@@ -60,4 +60,28 @@ Az oldal célja, hogy az érdeklődők azonnal képet kapjanak a közösség sze
 - Segíteni az események kommunikációját
 - Lehetővé tenni az egyszerű jelentkezést
 - Megköszönni a támogatók hozzájárulását
+ ## Dalma - Kezdőlap, Kazincbarcikai szakágkínálatunk
+
+## 1. Kezdőlap
+A nyitóoldal átfogó képet ad a Kazincbarcikai szakágkínálatunkról
+ Megjelennek rajta:
+
+- rövid bemutatkozó szövegek,
+- linkek eddzőink -szakágak-login és visszajelzés,
+- fejléc lábléc és központi bemutató weblogó.
+
+Az oldal célja, hogy az érdeklődők azonnal képet kapjanak a közösség szellemiségéről, aktivitásáról és nyitottságáról.
+## Technikai megvalósítás
+
+- **Struktúra:** statikus, többlinkes weboldal
+- **Design:** egyszerű, reszponzív, mobilbarát elrendezés
+- **Navigáció:** felső menüsor, egyértelmű menüpontok
+- **Tartalomkezelés:** kézzel szerkesztett tartalmak, képek és szövegek
+- **Elérhetőség:** publikus, böngészőből könnyen használható
+
+- ## Projekt céljai
+
+- Bemutatni a közösséget a szélesebb közönség számára
+- Segíteni az események kommunikációját
+- Lehetővé tenni az egyszerű jelentkezéstt
 
