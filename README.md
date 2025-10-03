@@ -1,4 +1,13 @@
-## Futó-gyalogló sportegyesület
+## Sportosborsod sportegyesület Honlap - Projektbemutató 
+## Áttekintés
+Azért hoztuk létre a kerékpáros, túra- és futóklubot, mert hiszünk a mozgás közösségformáló és egészségmegőrző erejében. Célunk, hogy minden korosztály számára elérhető, motiváló és élményalapú sportolási lehetőséget biztosítsunk. A közös mozgás segít a testi-lelki egészség megőrzésében, javítja a hangulatot és erősíti a közösségi kapcsolatokat. Klubunk nyitott minden érdeklődő előtt, függetlenül attól, hogy kezdő vagy haladó szinten áll.
+weblapcimünk: [sportosborsod](https://sportosborsod.byethost31.com/elementor-44/)
+##Akik készítették ez oldalt:
+* Sike Dalma Dóra  tartalmi szerkezet
+* Száva Natália    a weboldal megjelenéséért felelős
+* Bánóczi Kálmán   tartalmi szerkezetért felelős
+  
+
 ## Natália – Kezdőlap, Elérhetőségek, Sportos ÓzdOn
 A projekt technikai és tartalmi gerincét én kezdtem el felépíteni. A **Sportos Borsod** weboldal fejlesztése során
 nemcsak frontend és backend problémák megoldásában vettem részt, hanem a tartalmi struktúra
@@ -27,3 +36,28 @@ A következő technikai megoldásokat alkalmaztam:
 A weboldal célja nemcsak informatív, hanem **interaktív és felhasználóbarát** felület biztosítása volt. A
 technikai hibák javítását és a frontend korrekciókat én végeztem, különös figyelemmel az olvashatóságra
 és a kontrasztokra.
+## Kálmán - Kezdőlap, Miskolci szakágkínálatunk
+### 1. Kezdőlap
+A nyitóoldal átfogó képet ad a Miskolci szakág közösségéről. Megjelennek rajta:
+
+- rövid bemutatkozó szövegek,
+- linkek eddzőink -szakágak-login és visszajelzés,
+- AI generált bemutató,
+- fejléc lábléc és központi bemutató weblogó.
+
+Az oldal célja, hogy az érdeklődők azonnal képet kapjanak a közösség szellemiségéről, aktivitásáról és nyitottságáról.
+## Technikai megvalósítás
+
+- **Struktúra:** statikus, többlinkes weboldal
+- **Design:** egyszerű, reszponzív, mobilbarát elrendezés
+- **Navigáció:** felső menüsor, egyértelmű menüpontok
+- **Tartalomkezelés:** kézzel szerkesztett tartalmak, képek és szövegek
+- **Elérhetőség:** publikus, böngészőből könnyen használható
+
+- ## Projekt céljai
+
+- Bemutatni a közösséget a szélesebb közönség számára
+- Segíteni az események kommunikációját
+- Lehetővé tenni az egyszerű jelentkezést
+- Megköszönni a támogatók hozzájárulását
+
