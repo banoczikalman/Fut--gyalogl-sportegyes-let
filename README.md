@@ -61,28 +61,31 @@ Az oldal célja, hogy az érdeklődők azonnal képet kapjanak a közösség sze
 - Segíteni az események kommunikációját
 - Lehetővé tenni az egyszerű jelentkezést
 - Megköszönni a támogatók hozzájárulását
- ## Dalma - Kezdőlap, Kazincbarcikai szakágkínálatunk
+ 
+ ## Dalma - Dalma saját weboldala, Kazincbarcikai szakág kínálat
+
+Mivel a központi projekt a sportoláson van Borsod Abaúj Zemplén vármegyében és én Kazincbarcikán lakok, ezért úgy döntöttem, hogy létrehozok egy olyan oldalt, ahol kiemelem a város ünnepélyes eseményeit a Kolorfutással és a Tour De Hongrie-val. A kolorfutás nagyon híres megyei szinten és a Tour De Hongrie országosan, ezért választottam ki őket, hogy később akár egész Európában is tudjon róla minden érdeklődő.
 
 ## 1. _Kezdőlap_
-A nyitóoldal átfogó képet ad a Kazincbarcikai szakágkínálatunkról
- Megjelennek rajta:
+A nyitóoldal átfogó képet ad a Kazincbarcikai szakágkínálatunkról és megjelennek rajta:
 
 - rövid bemutatkozó szövegek,
-- linkek eddzőink -szakágak-login és visszajelzés,
+- linkek edzőink -szakágak-login és visszajelzés,
 - fejléc lábléc és központi bemutató weblogó.
 
 Az oldal célja, hogy az érdeklődők azonnal képet kapjanak a közösség szellemiségéről, aktivitásáról és nyitottságáról.
 ## _Technikai megvalósítás_
+A Nicepage programot választottam ki és azon belül készítettem a weboldalt a Wordpress legújabb verzióját használva. Kiválasztottam egy számomra nagyon kedvező és hasznos témát, ezután teljesen átalakítottam, illetve személyre szabtam a tartalmi elemeit.
 
 - **Struktúra:** statikus, többlinkes weboldal
-- **Design:** egyszerű, reszponzív, mobilbarát elrendezés
-- **Navigáció:** felső menüsor, egyértelmű menüpontok
+- **Design:** egyszerű, reszponzív, mobilbarát elrendezés, jól átlátható
+- **Navigáció:** felső menüsor, egyértelmű menüpontok, Google térkép használata a weboldalon a navigáláshoz
 - **Tartalomkezelés:** kézzel szerkesztett tartalmak, képek és szövegek
 - **Elérhetőség:** publikus, böngészőből könnyen használható
 
 - ## __Projekt céljai_
 _
-- Bemutatni a közösséget a szélesebb közönség számára
-- Segíteni az események kommunikációját
-- Lehetővé tenni az egyszerű jelentkezéstt
+- Bemutatni a közösséget mindenki számára Európai szinten
+- Segíteni az események kommunikációját, tájékozódását
+- Lehetővé tenni az egyszerű jelentkezést
 
