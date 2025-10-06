@@ -17,7 +17,7 @@ a látogatók gyorsan áttekinthessék a sportágakat és városi szakosztályok
 A **Céginfó/Elérhetőségek** szekcióban törekedtem az átláthatóságra és a könnyű kapcsolatfelvételre. A tartalom olvashatóságát és kontrasztját külön figyelemmel kezeltem, mivel napjainkban kiemelten fontos az akadálymentes megjelenés.
 A **Sportos ÓzdOn** városi aloldalnál a cél, hogy bemutassam a helyi sportközösség aktivitását és értékeit.
 ## Technikai megvalósítás
-A weboldal fejlesztése során a **WordPress 6.0.1** verzióját használtuk, amely stabil és kompatibilis a modern pluginokkal. A választott sablon a **MultiSport** nevű reszponzív sporttéma volt, amely
+A weboldal fejlesztése során a **WordPress 6.0.9** verzióját használtuk, amely stabil és kompatibilis a modern pluginokkal. A választott sablon a **PopularFX** nevű reszponzív sporttéma volt, amely
 testreszabható elrendezést kínál.
 A következő technikai megoldásokat alkalmaztuk:
 - **Bejelentkezési és véleményezési űrlapok** a felhasználói interakcióhoz
@@ -25,7 +25,7 @@ A következő technikai megoldásokat alkalmaztuk:
 - **Térkép-plugin** az elérhetőségek és helyszínek bemutatásához
 - **Listajeles felsorolások** a tartalmi struktúra javítására
 - **Reszponzív design**, amely mobilon és tableten is jól működik
-- **Gombok és linkek** a navigáció és felhasználói élmény támogatására
+- **Gombok és linkek** a navigáció és felhasználói élmény támogatására.
 A weboldal célja: informatív, **interaktív és felhasználóbarát** felület biztosítása.
 
 
