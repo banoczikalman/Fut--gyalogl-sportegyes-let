@@ -6,7 +6,7 @@ Azért hoztuk létre a kerékpáros, túra- és futóklubot, mert hiszünk a moz
 **Akik készítették az oldalt:**____
 * Sike Dalma Dóra  tartalmi szerkezet
 * Nagyné Száva Natália    a weboldal megjelenéséért felelős
-* Bánóczi Kálmán   tartalmi szerkezetért felelős
+* Bánóczi Kálmán   tartalmi szerkezetért felelős 
   
 
 ## Natália – Kezdőlap, Elérhetőségek, Sportos ÓzdOn
